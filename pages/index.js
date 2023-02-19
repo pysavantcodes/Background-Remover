@@ -101,7 +101,7 @@ export default function Home() {
         className={styles.full_page}
       >
         <h1>Drop x Remove Bg</h1>
-        <p>Drag and drop file or Double tab on screen to upload photo!!</p>
+        <p>Drag and drop file or Double tap on screen to upload photo!!</p>
         <input
           ref={pick}
           type="file"
